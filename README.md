@@ -6,7 +6,7 @@
 |[Code](https://github.com/Lucas-marques-web/Dice-game/)  |   [Give it a try](https://lucas-marques-web.github.io/Dice-game/) |
 
 
-##This is a game of luck and strategy, that is played with to players.
+## This is a game of luck and strategy, that is played with to players.
 
 # Are you the one who will win ?
 
