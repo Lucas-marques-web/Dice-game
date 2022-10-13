@@ -12,8 +12,8 @@
 
 
 Rules :
- 1 if you achieve 100 points you win.
- 2 if you get 1 you lose you current points and change the player.
- 3 If you want to play again click New Game.
+ ### 1 if you achieve 100 points you win.
+ ### 2 if you get 1 you lose you current points and change the player.
+ ### 3 If you want to play again click New Game.
  
  
